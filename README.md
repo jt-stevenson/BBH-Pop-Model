@@ -1,7 +1,7 @@
 # BBH-Pop-Model
 For the output of my summer project conducted at the Uni of Warwick in 2024
 
-# Project Proposal
+# Initial Project Proposal
 Black holes, or BHs, have historically been difficult to detect as they do not directly emit electromagnetic radiation, and are easiest to study by observing the gravitational effects on other bodies with mass- one such effect is that of the gravitational wave, or GWs. These are ripples in the gravitational fields of the universe, and are produced when a massive body is accelerated or disrupted. We can detect GWs from BH interactions (typically mergers) using a large interferometer, such as those operated by LIGO and Virgo. The data acquired from these interferometers can then be used to gain insight about the properties of the BHs producing them, which is what I aim to explore during this project.
 I aim to familiarise myself with GW data from the LIGO/Virgo collaboration. I aim to use Python for data analysis, and visualise the parameter space of detected events while exploring the connection between GWs and electromagnetic data. There are now over 80 black holes identified by LIGO/Virgo, and so, there is enough data to analyse these as populations rather than individual events.
 BHs, and more specifically GWs, are of great interest to physicists in recent years. In 2017, the Nobel Prize for Physics was awarded for contributions to detecting GWs, and in 2020, it was awarded for contributions to BH detection and research. As a result, this research is continually evolving, and further discussion on this topic is always necessary.
